@@ -5,7 +5,7 @@ I am an Italian student of the LM-18 Faculty of Computer Science of the Universi
 Skills: Java / C / Python / Spring / MongoDB / Scrapy / Splash / LaTeX
 
 - 🔭 I’m currently working on a project to modify the argorithm of serch box of Cronache Maceratesi web site
-- 🌱 I’m currently learning PHP 
+- 🌱 I’m currently learning Python and Repast 
 - 📫 How to reach me: giorgio.paoletti@studenti.unicam.it 
 
 

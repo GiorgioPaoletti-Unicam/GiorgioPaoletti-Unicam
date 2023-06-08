@@ -14,7 +14,8 @@ Here are some of the technologies I'm proficient with:
 - Web Scraping: Scrapy, Splash
 - Optimization Tools: Minizinc, OR-Tools
 - Logic Programming: Prolog, Drools
-- Document Preparation System: LaTeX
+- Natural Language: Spacy
+- Document Preparation System: LaTeX, Markdown
 
 ## What I'm up to:
 - 🎓 I'm currently engaged in an Erasmus Double Degree program in partnership with FHNW University, Switzerland, based in Olten.

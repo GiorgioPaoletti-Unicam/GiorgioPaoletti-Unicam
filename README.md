@@ -1,10 +1,26 @@
-### Hi there 👋, my name is Giorgio
-#### Full-Stack Developer 
-I am an Italian Double Degree student from the Faculty of Computer Science LM-18 at the University of Camerino and Business Information Systems at the University of FHNW in Switzerland. I graduated from the University of Camerino with an L-31 degree.
+---
 
-##### My Skills: 
-Java / C / Python / Spring / MongoDB / Scrapy / Splash / Flask / Spin / Minizinc / OR-Tools / Prolog / Drools / LaTeX
+# Hello there, I'm Giorgio 👋
+## Full-Stack Developer | Pursuing Double Degree 
 
-- 🔭 I'm currently participating in an Erasmus Double Degree program with FHNW University in Switzerland in Olten
-- 🌱 I'm currently working on my master's thesis
-- 📫 How to reach me: giorgio.paoletti@studenti.unicam.it 
+I'm an ambitious Full-Stack Developer and a Double Degree student hailing from Italy. Currently, I am advancing my studies in Computer Science (LM-18) at the renowned University of Camerino and Business Information Systems at the prestigious University of FHNW, Switzerland. I hold a bachelor's degree (L-31) from the University of Camerino.
+
+## Core Skills:
+Here are some of the technologies I'm proficient with:
+
+- Languages: Java, C, Python
+- Frameworks: Spring, Flask, Spin
+- Databases: MongoDB
+- Web Scraping: Scrapy, Splash
+- Optimization Tools: Minizinc, OR-Tools
+- Logic Programming: Prolog, Drools
+- Document Preparation System: LaTeX
+
+## What I'm up to:
+- 🎓 I'm currently engaged in an Erasmus Double Degree program in partnership with FHNW University, Switzerland, based in Olten.
+- 💡 I'm fervently working on my master's thesis, honing my research and practical skills.
+  
+## Get in Touch:
+Feel free to reach me at: [giorgio.paoletti@studenti.unicam.it](mailto:giorgio.paoletti@studenti.unicam.it) for collaborations or projects!
+
+---

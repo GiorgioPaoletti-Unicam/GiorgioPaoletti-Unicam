@@ -5,10 +5,6 @@ I am an Italian Double Degree student from the Faculty of Computer Science LM-18
 ##### My Skills: 
 Java / C / Python / Spring / MongoDB / Scrapy / Splash / Flask / Spin / Minizinc / OR-Tools / Prolog / Drools / LaTeX
 
-##### My Badges:
-
-<a href="https://api.badgr.io/public/assertions/QCj6bVJ2QBOSiyxRoQwr6w" target="_blank" rel="noopener noreferrer"><img width="80px" height="80px" src="https://api.badgr.io/public/assertions/QCj6bVJ2QBOSiyxRoQwr6w/image"></a>
-
 - 🔭 I'm currently participating in an Erasmus Double Degree program with FHNW University in Switzerland in Olten
-- 🌱 I'm currently learning Multi-label classification
+- 🌱 I'm currently working on my master's thesis
 - 📫 How to reach me: giorgio.paoletti@studenti.unicam.it 
